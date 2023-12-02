@@ -13,7 +13,7 @@ public class HiloCliente extends Thread{
     }
 
     public void entrarRestaurante(){
-        System.out.println("El Cliente " + getId() + " entro al restaurante y su mesa.");
+        System.out.println("El Cliente " + getId() + " entró al restaurante y su mesa.");
     }
 
     public void ordenar() {
