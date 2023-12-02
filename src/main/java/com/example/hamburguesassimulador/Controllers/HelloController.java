@@ -1,4 +1,4 @@
-package com.example.hamburguesassimulador;
+package com.example.hamburguesassimulador.Controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
